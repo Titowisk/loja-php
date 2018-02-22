@@ -6,4 +6,4 @@ Este exemplo foi feito utilizando [XAMPP](https://www.apachefriends.org/pt_br/in
 
 Para hospedagem gratuita, foi utilizado o [INFINITY FREE](https://infinityfree.net/)
 
-O exemplo pode ser encontrado no link [loja-php](bazzan.epizy.com)
+O exemplo pode ser encontrado no link [loja-php](http://www.bazzan.epizy.com/)
